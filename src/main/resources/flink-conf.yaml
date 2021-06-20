@@ -1,0 +1,5 @@
+jobmanager.heap.size: 8g
+taskmanager.memory.size: 8g
+taskmanager.heap.size: 10g
+taskmanager.memory.fraction: 0.9
+taskmanager.memory.preallocate: true
